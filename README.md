@@ -20,7 +20,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://testimonials-grid-section-gamma-liart.vercel.app/)
+- Live Site URL: [My Demo](https://testimonials-grid-section-gamma-liart.vercel.app/)
 
 ## My process
 
