@@ -35,6 +35,4 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 The best thing I learnt in this contest is how to set up the grid structure in CSS. how to use a hover effect that when hovering over an element affects all elements before and after that element. Using an effect that works like a generic sibling that also selects previous elements. You can see this in the focus effect I applied to the card section of my website.
 
-To see how you can add code snippets, see below:
-
 
